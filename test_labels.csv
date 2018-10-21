@@ -1,0 +1,74 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+beagle (1).jpg,620,403,beagle,135,33,553,375
+beagle (10).jpg,500,334,beagle,74,47,271,284
+beagle (11).jpg,800,500,beagle,95,1,800,489
+beagle (12).jpg,1024,1536,beagle,118,385,1000,1374
+beagle (2).jpg,766,766,beagle,109,69,710,710
+beagle (3).jpg,1920,1080,beagle,217,33,1088,1080
+beagle (4).jpg,540,370,beagle,88,1,443,370
+beagle (5).jpg,645,380,beagle,217,58,483,349
+beagle (6).jpg,1600,1200,beagle,405,60,1223,1130
+beagle (7).jpg,1920,1280,beagle,590,105,1920,1224
+beagle (8).jpg,750,499,beagle,101,73,494,434
+beagle (9).jpg,600,483,beagle,141,10,431,461
+german_sheperd (100).jpg,1024,640,german_sheperd,106,1,803,608
+german_sheperd (101).jpg,630,350,german_sheperd,117,14,511,349
+german_sheperd (102).jpg,640,400,german_sheperd,28,62,437,312
+german_sheperd (103).jpg,500,334,german_sheperd,161,4,377,318
+german_sheperd (104).jpg,800,533,german_sheperd,127,25,568,499
+german_sheperd (105).jpg,500,270,german_sheperd,124,22,278,269
+german_sheperd (106).jpg,1024,563,german_sheperd,161,4,793,563
+german_sheperd (107).jpg,800,533,german_sheperd,271,7,474,532
+german_sheperd (108).jpg,645,430,german_sheperd,53,16,599,399
+german_sheperd (109).jpg,708,472,german_sheperd,106,6,636,427
+german_sheperd (110).jpg,970,970,german_sheperd,1,134,815,910
+german_sheperd (111).jpg,1437,900,german_sheperd,289,109,857,810
+german_sheperd (112).jpg,1024,776,german_sheperd,322,25,1014,751
+german_sheperd (94).jpg,326,326,german_sheperd,1,11,269,306
+german_sheperd (95).jpg,640,640,german_sheperd,92,21,625,640
+german_sheperd (96).jpg,680,1024,german_sheperd,1,80,586,965
+german_sheperd (97).jpg,640,428,german_sheperd,137,74,449,400
+german_sheperd (98).jpg,1190,640,german_sheperd,343,1,790,640
+german_sheperd (99).jpg,580,387,german_sheperd,5,1,578,376
+husky (1).jpg,1001,750,husky,408,140,880,602
+husky (10).jpg,1130,500,husky,227,9,924,442
+husky (11).jpg,800,533,husky,54,4,751,533
+husky (12).jpg,2140,2232,husky,93,126,1595,2232
+husky (2).jpg,4256,2832,husky,476,284,3273,2832
+husky (3).jpg,1024,678,husky,7,80,693,678
+husky (4).jpg,1200,673,husky,4,42,955,673
+husky (5).jpg,1001,1392,husky,206,76,930,1245
+husky (6).jpg,1010,673,husky,140,75,839,647
+husky (7).jpg,800,800,husky,37,83,777,741
+husky (8).jpg,1096,731,husky,216,37,928,709
+husky (9).jpg,1621,912,husky,348,9,1361,907
+pug10.jpg,549,518,pug,41,51,484,514
+pug2.jpg,680,544,pug,23,51,650,544
+pug3.jpg,680,453,pug,168,34,532,440
+pug4.jpg,561,680,pug,91,81,524,500
+pug5.jpg,680,452,pug,216,98,606,346
+pug6.jpg,305,393,pug,16,15,287,378
+pug7.jpg,776,800,pug,31,23,768,799
+pug8.jpg,500,375,pug,1,27,297,353
+pug9.JPG,1200,914,pug,146,147,1046,839
+saint_bernard (1).jpg,933,622,saint_bernard,103,99,512,572
+saint_bernard (2).jpg,645,380,saint_bernard,126,30,527,366
+saint_bernard (3).jpg,1200,827,saint_bernard,148,63,1033,827
+saint_bernard (4).jpg,1200,800,saint_bernard,104,49,1075,762
+saint_bernard (5).jpg,1185,1104,saint_bernard,131,90,1048,1056
+saint_bernard (6).jpg,1402,935,saint_bernard,136,104,1300,783
+saint_bernard (7).jpg,773,800,saint_bernard,34,22,760,800
+saint_bernard (8).jpg,800,600,saint_bernard,89,74,506,511
+yorkshire (1).jpg,352,500,yorkshire,3,119,350,453
+yorkshire (10).jpg,1061,1300,yorkshire,176,98,958,1285
+yorkshire (11).jpg,1024,682,yorkshire,261,17,853,682
+yorkshire (12).jpg,750,428,yorkshire,212,10,619,329
+yorkshire (2).jpg,652,408,yorkshire,254,20,650,398
+yorkshire (3).jpg,463,463,yorkshire,100,74,403,395
+yorkshire (4).jpg,600,600,yorkshire,102,6,516,559
+yorkshire (5).jpg,564,705,yorkshire,25,30,475,667
+yorkshire (6).jpg,1133,1047,yorkshire,267,85,792,914
+yorkshire (7).jpg,400,400,yorkshire,59,60,342,345
+yorkshire (8).jpg,1000,640,yorkshire,326,107,916,493
+yorkshire (9).jpg,595,294,yorkshire,136,67,244,248
+yorkshire (9).jpg,595,294,yorkshire,331,18,469,264
